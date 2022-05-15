@@ -1,6 +1,6 @@
 getgenv().TextColor = Color3.fromRGB(0,201,255)
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/GreenDeno/Venyx-UI-Library/main/source.lua"))()
-local venyx = library.new("REBIRTH HUB", 5013109572)
+local venyx = library.new("REBIRTH HUB | Ninja Legends", 5013109572)
 
 -- themes
 local themes = {
