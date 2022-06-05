@@ -104,6 +104,7 @@ for i,v in pairs(game:GetService("Workspace").islandUnlockParts:GetChildren()) d
     end
 end
 wait(.1)
+--XD
 for i,v in pairs(game:GetService("Workspace").islandUnlockParts:GetChildren()) do
     if v.Name == "Tundra Island" then
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame
